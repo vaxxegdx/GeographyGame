@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NghJ2cA9IY=",
+  "success": true,
+  "projectFilePath": "/Users/vaxxed/Desktop/GeographyGame.Backend/GeographyGame.Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/vaxxed/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.entityframeworkcore/10.0.13/microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.13/microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.13/microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.4/microsoft.entityframeworkcore.relational.10.0.4.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.protocols/7.0.3/microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.0.3/microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.3/npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512",
+    "/Users/vaxxed/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "projectPath": "/Users/vaxxed/Desktop/GeographyGame.Backend/GeographyGame.Backend.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/vaxxed/Desktop/GeographyGame.Backend/GeographyGame.Backend.csproj",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "projectPath": "/Users/vaxxed/Desktop/GeographyGame.Backend/GeographyGame.Backend.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/vaxxed/Desktop/GeographyGame.Backend/GeographyGame.Backend.csproj",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@GeographyGame.Backend_HostAddress = http://localhost:5182
+
+GET {{GeographyGame.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
